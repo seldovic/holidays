@@ -1,3 +1,11 @@
+<h4>Instructions:</h4>
+<p>1. Use composer to install dependencies</p>
+<p>2. Create DB and .env file</p>
+<p>3. Run php artisan migrate, php artisan importjson to populate the DB</p>
+<p>4. Alternatively run phpunit and test will do everything for you and check if data is in the DB</p>
+
+<p>Cheers</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
